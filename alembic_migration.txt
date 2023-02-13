@@ -1,0 +1,9 @@
+alembic init alembic
+alembic revision --autogenerate -m "first revision"
+alembic upgrade head
+
+
+
+breakpoint:
+it is very important to find an error.
+
